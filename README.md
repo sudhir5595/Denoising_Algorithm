@@ -1,3 +1,7 @@
 # Denoising_Algorithm
 
 Reference for denoising algorithm - https://codahead.com/blog/a-denoising-autoencoder-for-cifar-datasets 
+
+# Research paper Summary
+
+Deep Generative Modeling of LiDAR Data paper has been selected to write a brief summary of the research paper.
